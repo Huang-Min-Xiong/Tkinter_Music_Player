@@ -48,5 +48,5 @@ class MusicPlayer:
         mixer.music.stop()
 
 root = Tk()
-app= MusicPlayer(root)
+app = MusicPlayer(root)
 root.mainloop()
